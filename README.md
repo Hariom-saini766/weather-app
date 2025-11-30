@@ -1,53 +1,53 @@
-Python Weather App (Tkinter + Free API)
+# 🌦️ Python Weather App (Tkinter + Free API)
 
-A simple Python Weather Application built using Tkinter GUI and the Open-Meteo Free Weather API.
-This app shows real-time weather information such as:
+A simple **Python Weather Application** built using **Tkinter GUI** and the **Open-Meteo Free Weather API**.  
+This app displays real-time weather information:
 
-Temperature (°C)
+- 🌡️ **Temperature (°C)**
+- 🌬️ **Wind Speed (km/h)**
+- ☁️ **Weather Code**
+- ✅ **No API key required**
 
-Wind Speed (km/h)
+---
 
-Weather Code (Weather Condition)
+## 🚀 Features
 
-No API key required — works completely free.
+✔ Free Weather API (Open-Meteo)  
+✔ No API key needed  
+✔ Tkinter GUI  
+✔ Real-time Temperature  
+✔ City Search  
+✔ Error Handling  
+✔ Lightweight & Easy to Understand  
 
-🚀 Features
+---
 
-✔ Free Weather API (Open-Meteo)
+## 🛠️ Technologies Used
 
-✔ No API key needed
+- Python  
+- Tkinter (GUI)  
+- Requests (API calls)  
+- Open-Meteo Weather API  
 
-✔ Tkinter GUI
+---
 
-✔ Real-time Temperature
-
-✔ City Search
-
-✔ Error Handling
-
-✔ Lightweight & Easy to Understand
-
-🛠️ Technologies Used
-
-Python
-
-Tkinter (GUI)
-
-Requests (API calls)
-
-Open-Meteo Weather API
-
-📂 Project Structure
+## 📂 Project Structure
 weather-app/
 │
 ├── weather_app.py
 └── README.md
 
-📦 Installation
-1️⃣ Clone this repository
+
+---
+
+## 📦 Installation
+
+### 1️⃣ Clone this repository
+```bash
 git clone https://github.com/your-username/weather-app.git
 
-2️⃣ Navigate to project
+### 2️⃣ Navigate to project
+```bash
 cd weather-app
 
 3️⃣ Install dependencies
